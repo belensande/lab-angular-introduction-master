@@ -1,0 +1,14 @@
+.section-title {
+  border-radius: 10px;
+  background-color: lightgray;
+  padding-left: 10px;
+}
+
+.container {
+  width: 80%;
+  margin: 10px auto;
+}
+
+article {
+  border-bottom:1px solid lightgrey;
+}

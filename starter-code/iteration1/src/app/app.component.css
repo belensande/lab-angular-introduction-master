@@ -1,0 +1,22 @@
+.container {
+  width:80%;
+  margin:30px auto;
+}
+
+.container > div {
+  padding:10px;
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+}
+
+.container:nth-child(even){
+  margin-left:5%;
+  margin-right:5%;
+}
+
+img {
+  height:150px;
+  width:auto;
+  margin-bottom:10px;
+}

@@ -1,0 +1,13 @@
+.container {
+  width:80%;
+  margin:30px auto;
+}
+
+img {
+  width:100%;
+  height:auto;
+}
+
+.centered {
+  text-align:center;
+}
